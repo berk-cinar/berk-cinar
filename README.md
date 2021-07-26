@@ -3,7 +3,7 @@
 
 <br/>
 <br/>
-## Hey, I'm <a href="https://berkcinr.me" target="_blank">Berk</a>! Im Frontend Developer
+## Hey, I'm Berk ! I'm Frontend Developer
 ---
 <br/>
 <br/>
