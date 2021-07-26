@@ -1,6 +1,3 @@
-# GitHub-Berkcinr
-
-
 <br/>
 <br/>
 ## Hey, I'm Berk ! I'm Frontend Developer
@@ -8,4 +5,16 @@
 <br/>
 <br/>
 
-[![Berk's github stats](https://github-readme-stats.vercel.app/api?username=Berkcinr&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Berkcinr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berkcinar)](https://github.com/Berkcinr/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/Berkcinr/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkcinr&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/Berkcinr/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Berkcinr&repo=convoychat" />
+</a>
+
