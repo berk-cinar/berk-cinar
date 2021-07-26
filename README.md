@@ -22,7 +22,6 @@
 <a href="https://github.com/Berkcinr">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Berkcinr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Berkcinr"/>
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkcinr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Berkcinr"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Berkcinr&theme=algolia" alt="Berkcinr" />
 </a>
 </p>
 
