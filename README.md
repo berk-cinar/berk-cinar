@@ -11,7 +11,7 @@
  
 
 
-<div align="center">
+
  
 <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/html/html.svg" alt="html" height='42px'/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/css/css.svg" alt="css" height='42px'/> </a>
@@ -26,8 +26,6 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/vue/vue.svg"></a>
  
-<div>
-
 <br/><br/><br/>
 
 ### 📊 GitHub Stats
