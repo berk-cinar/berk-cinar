@@ -5,8 +5,7 @@
 <br/><br/><br/>
 <h1 align="center">Hi, I'm Berk 👋</h1>
 <h3 align="center"> I'm Frontend Developer</h3>
-
-<p align="left"> <img height="18" src="https://komarev.com/ghpvc/?username=Berkcinar" alt="Bercinr" /> </p>   <a href="https://https://twitter.com/Berkcinar666" target="blank"><img height="18"
+  <a href="https://https://twitter.com/Berkcinar666" target="blank"><img height="18"
         src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter" /></a>
 <a href="https://www.linkedin.com/in//"> <img height="18"
     src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="Linkedin" /></a>
