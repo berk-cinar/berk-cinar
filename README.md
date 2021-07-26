@@ -1,7 +1,6 @@
 <br/>
 <br/>
-## Hey, I'm Berk ! I'm Frontend Developer
----
+
 <br/><br/><br/>
 <h1 align="center">Hi, I'm Berk 👋</h1>
 <h3 align="center"> I'm Frontend Developer</h3>
