@@ -7,16 +7,6 @@
 <h3 align="center"> I'm Frontend Developer</h3>
 
 
-### 📊 GitHub Stats
-<p align="center">
-<a href="https://github.com/ercumentlacin">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Berkcinr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Berkcinr"/>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkcinr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Berkcinr"/>
-
-</a>
-</p>
-
-
 ### 🔨 Languages and Tools:
 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
@@ -31,4 +21,15 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
 <br>
 
+
+
+
+### 📊 GitHub Stats
+<p align="center">
+<a href="https://github.com/ercumentlacin">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Berkcinr&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Berkcinr"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Berkcinr&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Berkcinr"/>
+
+</a>
+</p>
 
