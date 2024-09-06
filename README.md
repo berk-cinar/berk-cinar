@@ -3,7 +3,7 @@
 
 <br/><br/><br/>
 <h1 align="center">Hi, I'm Berk 👋</h1>
-<h3 align="center"> I'm Frontend Developer</h3>
+<h3 align="center"> I'm Mobile Developer</h3>
 
 
 ### 🔨 Languages and Tools:
